@@ -45,5 +45,3 @@ In conclusion, this project employs machine learning to predict customer interes
 By successfully identifying potential customers interested in vehicle insurance, the insurance company can optimize its outreach efforts, improve its business model, and ultimately enhance its revenue generation.
 
 ---
-
-Feel free to customize this README template with specific details, code snippets, and additional information as needed for your project.
